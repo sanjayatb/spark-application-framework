@@ -1,2 +1,2 @@
-# spark-application-framework
+# com.stb.spark-application-framework
 Configurable rapid application development framework
