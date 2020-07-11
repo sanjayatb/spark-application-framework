@@ -1,7 +1,7 @@
 # spark-application-framework
 Configurable rapid application development framework
 
-## Add a stream query
+## Add a stream query configuration. 
 
 ```sh
 appName: "Structured Streaming Application"
