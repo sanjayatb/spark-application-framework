@@ -13,7 +13,7 @@ queries:
     options:
       header : true
       sep : ";"
-      path : "D:/Academic/Projects/workspace/spark-application-framework/application-framework/src/main/resources/inputs/"
+      path : "src/main/resources/inputs/"
   transformer : "com.stb.spark.transformation.Extractor"
   sink:
     format: "console"
