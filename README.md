@@ -1,5 +1,5 @@
 # spark-application-framework
-Configurable rapid application development framework
+Configurable rapid spark application development framework
 
 ## Add a stream query configuration. 
 
